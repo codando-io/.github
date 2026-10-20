@@ -5,7 +5,7 @@ does one job and shows its sources. [codando.io](https://codando.io)
 
 ## Products
 
-**[Prumo](https://src.capivaras.dev/scriptorium/prumo)** · *De onde veio e para
+**[Prumo](https://github.com/codando-io/prumo)** · *De onde veio e para
 onde foi o dinheiro das campanhas eleitorais no Brasil.*
 A civic-transparency explorer for the campaign-finance data published by the
 Brazilian Superior Electoral Court (TSE): candidate profiles, money flows, donors
@@ -18,7 +18,7 @@ In development.
 
 ## Open source
 
-**[Officina](https://src.capivaras.dev/scriptorium/officina)** · the engineering
+**[Officina](https://github.com/codando-io/officina)** · the engineering
 process we build with, packaged so any project can adopt it:
 investigate before changing code, small reversible changes, tests as evidence,
 review of the real diff, and observability after every deploy.
